@@ -5,19 +5,19 @@
 <!--[![Issues][issues-shield]][issues-url]
 (url)(url)[![MIT License][license-shield]][license-url]-->
  
-[contributors-shield]: https://img.shields.io/github/contributors/Ankushkv/IQAC-Management.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/Ankushkv/Ankushkv.svg?style=for-the-badge
 [contributors-url]: https://github.com/ankushkv/IQAC-Management/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/Ankushkv/IQAC-Management.svg?style=for-the-badge&color=228B22
+[forks-shield]: https://img.shields.io/github/forks/Ankushkv/Ankushkv.svg?style=for-the-badge&color=228B22
 [forks-url]: https://github.com/Ankushkv/IQAC-Management/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/Ankushkv/IQAC-Management.svg?style=for-the-badge&color=B048B5
+[stars-shield]: https://img.shields.io/github/stars/Ankushkv/Ankushkv.svg?style=for-the-badge&color=B048B5
 [stars-url]: https://github.com/Ankushkv/IQAC-Management/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/Ankushkv/IQAC-Management.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/Ankushkv/Ankushkv.svg?style=for-the-badge
 [issues-url]: https://github.com/Ankushkv/IQAC-Management/issues
 
-[license-shield]: https://img.shields.io/github/license/Ankushkv/IQAC-Management.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/Ankushkv/Ankushkv.svg?style=for-the-badge
 [license-url]: https://github.com/Ankushkv/Best-README-Template/blob/master/LICENSE.txt
 
 <a name="readme-top"></a> 
