@@ -94,7 +94,7 @@
 [twitter]:https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [twitter-url]:https://twitter.com/Ankushvx
  
-<div align="center">
+<!--<div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=ankushkv&show_icons=true&theme=moltack&locale=en&hide_border=true&border_radius=15" style="width:60%" alt="Ankush" /> 
 </div>
 <div align="center">
