@@ -5,20 +5,20 @@
 <!--[![Issues][issues-shield]][issues-url]
 (url)(url)[![MIT License][license-shield]][license-url]-->
  
-[contributors-shield]: https://img.shields.io/github/contributors/Ankushkv/Ankushkv.svg?style=for-the-badge
-[contributors-url]: https://github.com/ankushkv/IQAC-Management/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/ankushvx/Ankushkv.svg?style=for-the-badge
+[contributors-url]: https://github.com/ankushvx/IQAC-Management/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/Ankushkv/Ankushkv.svg?style=for-the-badge&color=228B22
-[forks-url]: https://github.com/Ankushkv/IQAC-Management/network/members
+[forks-shield]: https://img.shields.io/github/forks/ankushvx/Ankushkv.svg?style=for-the-badge&color=228B22
+[forks-url]: https://github.com/ankushvx/IQAC-Management/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/Ankushkv/Ankushkv.svg?style=for-the-badge&color=B048B5
-[stars-url]: https://github.com/Ankushkv/IQAC-Management/stargazers
+[stars-shield]: https://img.shields.io/github/stars/ankushvx/Ankushkv.svg?style=for-the-badge&color=B048B5
+[stars-url]: https://github.com/ankushvx/IQAC-Management/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/Ankushkv/Ankushkv.svg?style=for-the-badge
-[issues-url]: https://github.com/Ankushkv/IQAC-Management/issues
+[issues-shield]: https://img.shields.io/github/issues/ankushvx/Ankushkv.svg?style=for-the-badge
+[issues-url]: https://github.com/ankushvx/IQAC-Management/issues
 
-[license-shield]: https://img.shields.io/github/license/Ankushkv/Ankushkv.svg?style=for-the-badge
-[license-url]: https://github.com/Ankushkv/Best-README-Template/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/ankushvx/Ankushkv.svg?style=for-the-badge
+[license-url]: https://github.com/ankushvx/Best-README-Template/blob/master/LICENSE.txt
 
 <a name="readme-top"></a> 
 ## Coding Language
@@ -98,7 +98,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=ankushvx&show_icons=true&theme=aura_dark&locale=en&hide_border=true&border_radius=15" style="width:60%" alt="Ankush" /> 
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faisalcodes&theme=aura_dark&hide_border=true&border_radius=15" style="width:60%" alt="Ankush"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushvx&theme=aura_dark&hide_border=true&border_radius=15" style="width:60%" alt="Ankush"/>
 </div> 
 
 <div align="center">
