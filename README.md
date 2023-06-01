@@ -99,15 +99,12 @@
 </div> 
 
 <!--<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=ankushvx&show_icons=true&theme=aura_dark&locale=en&hide_border=true&border_radius=15" style="width:60%" alt="Ankush" /> 
-</div>
-
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushvx&layout=compact&theme=aura_dark&locale=en&hide_border=true&border_radius=15" style="width:60%" alt="Ankush"></div>  
-
-(url)Project Link: [https://github.com/Ankushkv/repo_name](https://github.com/Ankushkv/repo_name)--!>
+  <img src="https://github-readme-stats.vercel.app/api?username=ankushvx&show_icons=true&theme=aura_dark&locale=en&hide_border=true&border_radius=15" style="width:60%" alt="Ankush" /> 
+</div>  
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushvx&layout=compact&theme=aura_dark&locale=en&hide_border=true&border_radius=15" style="width:60%" alt="Ankush">
+</div>    
+--!>
    
 
 
