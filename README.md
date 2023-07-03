@@ -94,7 +94,7 @@
 [twitter]:https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [twitter-url]:https://twitter.com/Ankushvx
 
-<div align="center">
+<!--<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushvx&theme=aura_dark&hide_border=true&border_radius=15" style="width:60%" alt="Ankush"/>
 </div> 
 
@@ -103,7 +103,7 @@
 </div>  
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushvx&layout=compact&theme=aura_dark&locale=en&hide_border=true&border_radius=15" style="width:60%" alt="Ankush">
-</div>    
+</div>    -->
  
    
 
