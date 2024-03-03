@@ -60,8 +60,8 @@
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 
-[React_Native]:https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React_Native-url]:https://reactnative.dev 
+<!--[React_Native]:https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React_Native-url]:https://reactnative.dev -->
 
 [Microsoft_SQL_Server]:https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white
 [Microsoft_SQL_Server-url]:https://www.microsoft.com/en-in/sql-server/sql-server-downloads
