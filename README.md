@@ -7,7 +7,10 @@ I'm a passionate **Software Developer** who loves building robust, scalable, and
   ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
   ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
   ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+  ![Dart](https://img.shields.io/badge/Dart-02569B?style=flat&logo=flutter&logoColor=white)
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 - **Database:**  
@@ -16,6 +19,7 @@ I'm a passionate **Software Developer** who loves building robust, scalable, and
 - **Web:**  
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![Bootstrap.com](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
 ## 🔒 Favorite Projects
 My favorite work is on private/internal repositories, but I love tackling challenging problems and building tools that make a difference!
@@ -23,15 +27,16 @@ My favorite work is on private/internal repositories, but I love tackling challe
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankushvx-blue?style=flat&logo=linkedin)](https://linkedin.com/in/Ankushvx)
 [![Twitter](https://img.shields.io/badge/Twitter-Ankushvx-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Ankushvx)
+[![Twitter](https://img.shields.io/badge/Facebook-Ankushvx-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://www.facebook.com/ankushkvx/)
 
  
-[![contributors-shield][contributors-shield]][contributors-url]
+<!--[![contributors-shield][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 <!--[![Issues][issues-shield]][issues-url]
 (url)(url)[![MIT License][license-shield]][license-url]-->
  
-[contributors-shield]: https://img.shields.io/github/contributors/ankushvx/Ankushkv.svg?style=for-the-badge
+<!--[contributors-shield]: https://img.shields.io/github/contributors/ankushvx/Ankushkv.svg?style=for-the-badge
 [contributors-url]: https://github.com/ankushvx/IQAC-Management/graphs/contributors
 
 [forks-shield]: https://img.shields.io/github/forks/ankushvx/Ankushkv.svg?style=for-the-badge&color=228B22
@@ -57,7 +62,7 @@ My favorite work is on private/internal repositories, but I love tackling challe
 [![Node][Node.js]][Node-url]
 [![React][React.js]][React-url]
 <!--[![React_Native][React_Native]][React_Native-url] -->
-[![Microsoft_SQL_Server][Microsoft_SQL_Server]][Microsoft_SQL_Server-url]
+<!--[![Microsoft_SQL_Server][Microsoft_SQL_Server]][Microsoft_SQL_Server-url]
 [![HTML][HTML]][HTML-url]
 [![CSS][CSS]][CSS-url]
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]  
@@ -102,7 +107,7 @@ My favorite work is on private/internal repositories, but I love tackling challe
 [Bootstrap-url]: https://getbootstrap.com
 
 <!-- CONTACT -->
-## Contact
+<!--## Contact
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Instagram][Instagram]][Instagram-url]
 [![Facebook][Facebook]][Facebook-url]
@@ -120,7 +125,7 @@ My favorite work is on private/internal repositories, but I love tackling challe
 [twitter]:https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [twitter-url]:https://twitter.com/Ankushvx
 
-<!--<div align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushvx&theme=aura_dark&hide_border=true&border_radius=15" style="width:60%" alt="Ankush"/>
 </div> 
 
