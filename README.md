@@ -1,3 +1,29 @@
+# 👋 Hi, I'm Ankushvx!
+
+I'm a passionate **Software Developer** who loves building robust, scalable, and user-friendly applications. My expertise spans across backend and frontend technologies, allowing me to bring full-stack solutions to life.
+
+## 🚀 Tech Stack
+- **Languages & Frameworks:**  
+  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+  ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+- **Database:**  
+  ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+- **Web:**  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+## 🔒 Favorite Projects
+My favorite work is on private/internal repositories, but I love tackling challenging problems and building tools that make a difference!
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankushvx-blue?style=flat&logo=linkedin)](https://linkedin.com/in/Ankushvx)
+[![Twitter](https://img.shields.io/badge/Twitter-Ankushvx-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Ankushvx)
+
  
 [![contributors-shield][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
