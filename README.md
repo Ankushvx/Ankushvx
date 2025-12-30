@@ -13,9 +13,13 @@ I'm a passionate **Software Developer** who loves building robust, scalable, and
   ![Dart](https://img.shields.io/badge/Dart-02569B?style=flat&logo=flutter&logoColor=white)
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
+
+  ![Azure](https://img.shields.io/badge/microsoft%20azure-0078D4?style=flat&logo=microsoft%20azure&logoColor=white) 
 - **Database:**  
   ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-
+  ![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=flat&logo=azuresql&logoColor=white)
+  
+  
 - **Web:**  
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
