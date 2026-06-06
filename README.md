@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ankushvx!
+# 👋 Hi, I'm Ankush Verma!
 
 I'm a passionate **Software Developer** who loves building robust, scalable, and user-friendly applications. My expertise spans across backend and frontend technologies, allowing me to bring full-stack solutions to life.
 
